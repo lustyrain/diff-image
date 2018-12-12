@@ -1,0 +1,13 @@
+{
+  "name": "diff-image",
+  "version": "0.0.1",
+  "main": "diff_iamge.js",
+  "repository": "https://github.com/lustyrain/diff-image.git",
+  "author": "LustyRain <rastyrein.ken.091012@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "blink-diff": "^1.0.13",
+    "iectrl": "https://github.com/lustyrain/iectrl.git",
+    "puppeteer": "^1.11.0"
+  }
+}
